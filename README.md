@@ -1,5 +1,4 @@
 # lab-01b-markdown-notes
-===
 
 ## Links to each Day
 
