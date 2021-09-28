@@ -1,6 +1,6 @@
 # About Me
 
-Here are **three** things about _me_;
+## Here are **three** things about _me_;
 1. I have two kids
 1. I like sports and video Games
 1. I need to get back into shape
@@ -13,9 +13,9 @@ const myFunc = () =>(
     console.log("my function!")
 )
 ```
-Name|Type|Cool Factor
----|---|---
-spot | puppy | 10
-jumpy | frog | 7
-flaps | birb | 4
-mew-mew | kitty | 6
+## **Daily Allocation of Times**
+|         | Family               | Class | Hobbies            |
+|---------|----------------------|-------|--------------------|
+| Morning | Get ready for School | ---   | Check Social media |
+| Day     | ---                  | Class | ---                |
+| Evening | Kids/Bed Time        | Labs  | Create Content     |
