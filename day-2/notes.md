@@ -15,3 +15,5 @@
  [Link for cheat sheet](https://docs.emmet.io/cheat-sheet/)
  *   div.classhead to create div with class name
  * div.top-bar-link*11
+ * CTRL + ALT + SHIFT arrow keys to select all columns, can change ID to Class
+ * give borders to show grids
