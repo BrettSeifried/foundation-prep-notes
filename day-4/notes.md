@@ -22,3 +22,5 @@ console.log(Rue.name);
 ```
 console.log(Math.floor(5.324141));
 ```
+
+[functions practice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
